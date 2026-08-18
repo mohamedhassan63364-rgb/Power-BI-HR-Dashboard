@@ -24,15 +24,14 @@ Hiring Trends by Year
 Employees by Marital Status
 Salary by Department
 Employee Distribution by Gender
+Employee Analysis by Department
 Interactive Filters for Gender, Employee Name, and Department
 📈 Key Insights
-The dataset contains information about 295 employees.
-The dashboard tracks hiring trends from 2016 to 2023.
-Employees can be analyzed based on gender and marital status.
-Salary distribution can be compared across different departments.
-Interactive filters allow users to explore specific employees and departments.
-📷 Dashboard Preview
-
+The dashboard contains data for 295 employees.
+It tracks employee hiring trends from 2016 to 2023.
+Employee distribution can be analyzed based on gender and marital status.
+Salary distribution across different departments helps identify departments with higher salary costs.
+Interactive filters allow users to explore specific employee groups and departments.
 📂 Project Files
 
 This repository includes:
@@ -43,5 +42,4 @@ This repository includes:
 👤 Author
 
 Mohamed Hassan
-
 Aspiring Data Analyst | Finance Graduate
