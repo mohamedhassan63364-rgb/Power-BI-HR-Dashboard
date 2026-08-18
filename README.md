@@ -33,12 +33,15 @@ Employee distribution can be analyzed based on gender and marital status.
 Salary distribution across different departments helps identify departments with higher salary costs.
 Interactive filters allow users to explore specific employee groups and departments.
 📂 Project Files
+## 🖼️ Dashboard Preview
 
+![Power BI HR Dashboard](./Screenshot%202026-08-15%20004521.png)
 This repository includes:
 
 📊 Power BI File – Interactive HR Dashboard
 📁 Excel Dataset – Source data used for the analysis
 🖼️ Dashboard Screenshot – Preview of the final dashboard
+
 👤 Author
 
 Mohamed Hassan
