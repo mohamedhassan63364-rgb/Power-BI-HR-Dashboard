@@ -36,6 +36,7 @@ Interactive filters allow users to explore specific employee groups and departme
 ## 🖼️ Dashboard Preview
 
 ![Power BI HR Dashboard](./Screenshot%202026-08-15%20004521.png)
+
 This repository includes:
 
 📊 Power BI File – Interactive HR Dashboard
